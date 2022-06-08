@@ -1,0 +1,4 @@
+HTTP
+  Headers
+    Authentication: `Bearer TOKEN`
+  Body
